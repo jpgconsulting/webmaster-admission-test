@@ -1,0 +1,13 @@
+{
+  "name": "webmaster-admission-test",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Fixture site for the website-agent admission check and live provider smoke.",
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "headline": "Webmaster admission test fixture",
+  "tagline": "A deterministic fixture site for the website-agent live smoke.",
+  "contact": "fixture@example.invalid",
+  "hero": null,
+  "buildMode": "ok"
+}

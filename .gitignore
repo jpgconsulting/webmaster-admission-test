@@ -1,0 +1,12 @@
+# Generated build output. Never commit it.
+dist/
+
+# Local tooling noise.
+node_modules/
+package-lock.json
+.vercel/
+
+# Platform-managed files that live in the clone but are not site content.
+.chatinfra/
+.uploads/
+SITE.md
